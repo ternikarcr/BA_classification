@@ -17,9 +17,7 @@ The repository also **does not include the full processed pixel tables**, becaus
 ## Repository structure
 
 ```text
-.
-│   
-├── scripts/
+. 
 │   ├── 01_data_prep.R
 │   ├── 02_threshold_models.R
 │   ├── 03_ml_models.R
