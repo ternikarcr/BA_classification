@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Code for: How efficient are burnt area mapping models?"
+message: "If you use this repository, please cite the associated paper and the software release."
+type: software
+authors:
+  - family-names: Ternikar
+    given-names: Chirag Rajendra
+  - family-names: Mutyala
+    given-names: Praveen
+  - family-names: A.
+    given-names: Arshad
+  - family-names: Rodda
+    given-names: Suraj Reddy
+  - family-names: Gopalakrishnan
+    given-names: Rajashekar
+keywords:
+  - burned area mapping
+  - Sentinel-2
+  - wildfire
+  - spectral indices
+  - xgboost
+  - random forest
